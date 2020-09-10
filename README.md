@@ -10,9 +10,8 @@ Affiliate Insititution: Indian Institute Of Science Education and Research Bhopa
 Department: Physics
 
 Hey there, thank you for visiting this space, i hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
-Project Description: Analysis of Zipf’s Law using graphical and numerical
-tools in Python.
 
+Project Description: Analysis of Zipf’s Law using graphical and numerical tools in Python.
 
 Programming Language: Python 3
 
