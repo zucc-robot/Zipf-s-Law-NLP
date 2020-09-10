@@ -9,7 +9,7 @@ Affiliate Insititution: Indian Institute Of Science Education and Research Bhopa
 
 Department: Physics
 
-Hey there, thank you for visiting this space, i hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
+Hey there, thank you for visiting this space, I hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
 
 Project Description: Analysis of Zipf’s Law using graphical and numerical tools in Python.
 
@@ -70,8 +70,11 @@ object-oriented API for embedding plots into applications using
 general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+
 
 A̲u̲t̲h̲o̲r̲'̲s̲ ̲B̲i̲o̲
+
 Name: Anirudh Kalla
+
 Affiliate Insititution: Indian Institute Of Science Education and Research Bhopal
+
 Department: Physics
 
 Hey there, thank you for visiting this space, I hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
