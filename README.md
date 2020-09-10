@@ -74,4 +74,4 @@ Name: Anirudh Kalla
 Affiliate Insititution: Indian Institute Of Science Education and Research Bhopal
 Department: Physics
 
-Hey there, thank you for visiting this space, i hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
+Hey there, thank you for visiting this space, I hope you find something useful here. I like physics, math, programming and reddit. Oh and LaTex too :) 
