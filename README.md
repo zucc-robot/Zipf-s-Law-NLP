@@ -13,6 +13,7 @@ Hey there, thank you for visiting this space, i hope you find something useful h
 Project Description: Analysis of Zipf’s Law using graphical and numerical
 tools in Python.
 
+
 Programming Language: Python 3
 
 Distribution: Anaconda v2020.07
